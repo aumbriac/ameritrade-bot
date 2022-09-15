@@ -8,7 +8,7 @@ Next, create a .env file in the root of the project with the following content:
 ```
 API_KEY=YOUR_API_KEY
 ```
-*Be sure to replace YOUR_API_KEY with your actual Ameritrade API key.*
+**Be sure to replace `YOUR_API_KEY` with your actual Ameritrade API key.**
 
 Then, run `npm i` in the root of the project *as well as* the /frontend directory
 
