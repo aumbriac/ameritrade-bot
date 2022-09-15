@@ -14,7 +14,7 @@ Then, run `npm i` in the root of the project *as well as* the /frontend director
 
 Finally, run either `nodemon server` or `node server` in the root directory to start the server. 
 
-By default, the bot will run every 20 minutes and will save all articles to articles.json. 
+By default, the bot will run every 20 minutes if the stock market is open and will save all articles to articles.json. 
 
 To start the frontend and view articles the bot has created, enter the `/frontend` directory and run `npm start`.
 
