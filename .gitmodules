@@ -1,0 +1,3 @@
+[submodule "ameritrade-bot"]
+	path = ameritrade-bot
+	url = https://github.com/aumbriac/ameritrade-bot
